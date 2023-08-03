@@ -1,1 +1,1 @@
-# sign-language-recognition-next-app
+# Signify - Sign language recognition app
